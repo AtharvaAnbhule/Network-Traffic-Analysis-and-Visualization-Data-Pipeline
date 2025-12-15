@@ -31,8 +31,8 @@ To begin working with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/ElhoubeBrahim/network-traffic-analysis.git
-   cd network-traffic-analysis
+   git clone https://github.com/AtharvaAnbhule/Network-Traffic-Analysis-and-Visualization-Data-Pipeline
+   cd Network-Traffic-Analysis-and-Visualization-Data-Pipeline
    ```
 
 2. **Install Dependencies:**
